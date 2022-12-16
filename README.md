@@ -1,6 +1,6 @@
 # Freeze
 
-An experimental, zero-cost garbage-collection strategy.
+An experimental garbage-collection strategy.
 
 ## Design
 
