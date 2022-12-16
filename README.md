@@ -2,7 +2,7 @@
 
 An experimental, zero-cost garbage-collection strategy.
 
-### Design
+## Design
 
 `Liquid` Memory:
 
