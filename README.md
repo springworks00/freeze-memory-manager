@@ -1,4 +1,4 @@
-# Freeze
+# Freeze Memory Manager
 
 An experimental garbage-collection strategy.
 
